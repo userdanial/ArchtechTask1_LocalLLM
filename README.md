@@ -20,8 +20,8 @@ A simple and interactive **Streamlit web interface** to chat with a **locally in
 1. Clone this repository:
 
 ```bash
-git clone https://github.com/your-username/local-llm-chat.git
-cd local-llm-chat
+git clone https://github.com/userdanial/ArchtechTask1_LocalLLM.git
+cd ArchtechTask1_LocalLLM
 
 ##Method
 ###Create and activate a virtual environment (recommended):
